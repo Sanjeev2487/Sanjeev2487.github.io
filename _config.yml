@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanjeev Kumar Singh / Personal Webpage"
+title                    : "Sanjeev Kumar Singh"
 title_separator          : "-"
 name                     : &name "Sanjeev Kumar Singh"
 description              : &description "Graduate Student, Computer Science, Texas A&M University, TX, USA"
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Sanjeev Kumar SIngh"
-  avatar           : "HT_2017.jpg"
+  avatar           : "profile_sanjeev.jpg"
   bio              : "Graduate Student, Computer Science"
   location         : "College Station, TX, USA"
-  employer         : "https://www.tamu.edu/"
+  employer         : "Texas A&M Univeristy"
   googlescholar    : 
-  email            : "sanjsingh |ä| tamu.edu"
+  email            : "sanjsingh@tamu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sanjeev2487/"
+  linkedin         : "sanjeev2487"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "SanjTwts" 
   vine             :
   weibo            :
   xing             :
